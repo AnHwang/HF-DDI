@@ -1,6 +1,6 @@
 ## HF-DDI: predicting drug–drug interaction events based on multimodal hybrid fusion
 
-![Framework]([https://github.com/AnHwang/HF-DDI/blob/7a7ff541255f5f132f2b32d2b96f04c3964f3c4a/figture/HF-DDI.png])
+![Framework]([https://github.com/AnHwang/HF-DDI/blob/main/figture/HF-DDI.png])
 
 ## Environment requirements
 + python          3.7 
